@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Sh3tys
+- 👀 I’m interested in Minecraft code
+- 🌱 I’m currently learning JavaScript Python
+- 💞️ I’m looking to collaborate on server minecraft
+- 📫 How to reach me on my discord: _Parzival_987#5116
+- 
