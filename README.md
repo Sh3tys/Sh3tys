@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Sh3tys
-- 👀 I’m interested in Minecraft code
-- 🌱 I’m currently learning Python
-- 📫 How to reach me on my discord: _Parzival_987#5116
+- 👀 I’m interested in Java code
+- 🌱 I’m currently learning Python, Html, JavaScript
+- 📫 How to reach me on my discord: Parzival_987
