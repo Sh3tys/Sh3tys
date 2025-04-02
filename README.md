@@ -1,4 +1,4 @@
-# TodoApp 
+# TodoApp
 <span style="width:20px;">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ly2wNDz-JtvuG3ICM9S2qKYz4ud3ggJfsw&s)</span>
 
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://google.com)
@@ -8,10 +8,9 @@
 [![Actions status](https://github.com/astral-sh/uv/actions/workflows/ci.yml/badge.svg)](https://github.com/astral-sh/uv/actions)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://www.linkedin.com/in/titouan-conquéré-de-monbrison/)
 
-
-Une application moderne ***extrêment rapide*** pour **gérer efficacement ses tâches**, construite avec **Rust, React et PostgreSQL**.
-
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEciD8gAyCLEQIcmuQUy3FfFN07Uxe_KQCtg&s)
+
+<p style="font-size:25px;">Une application moderne ***extrêment rapide*** pour **gérer efficacement ses tâches**, construite avec **Rust, React et PostgreSQL**.</p>
 
 ## Sommaire
 
