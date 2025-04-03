@@ -1,5 +1,5 @@
 # TodoApp
-<span style="width:20px;">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ly2wNDz-JtvuG3ICM9S2qKYz4ud3ggJfsw&s)</span>
+<span style="width:20px; justify-center;">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ly2wNDz-JtvuG3ICM9S2qKYz4ud3ggJfsw&s)</span>
 
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://google.com)
 [![image](https://img.shields.io/pypi/v/uv.svg)](https://pypi.python.org/pypi/uv)
