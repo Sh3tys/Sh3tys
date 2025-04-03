@@ -187,8 +187,8 @@ Les contributions sont les bienvenues !
 - 👑[Sh3tys](https://github.com/Sh3tys)💻
 
 ### Contact
-- **Lightningmax :** *max.silva-dos-reis@efrei.net*
-- **Sh3tys :** *titouan.conquere-de-monbrison@efrei.net*
+- **Lightningmax :** *https://github.com/LightningMax*
+- **Sh3tys :** *https://github.com/Sh3tys*
 
 ### Projet
 
