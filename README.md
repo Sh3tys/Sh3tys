@@ -95,9 +95,6 @@ npm start
 ```
 http://localhost:3000
 ```
-*lien: [http://localhost:3000](http://localhost:3000)*
-
-
 
 ## Commandes utiles
 >[!TIP] 
