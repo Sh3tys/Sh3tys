@@ -4,13 +4,12 @@
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://google.com)
 [![image](https://img.shields.io/pypi/v/uv.svg)](https://pypi.python.org/pypi/uv)
 [![Static Badge](https://img.shields.io/badge/todoapp-todapp-brightgreen)](https://youtube.com)
-[![image](https://img.shields.io/pypi/pyversions/uv.svg)](https://pypi.python.org/pypi/uv)
 [![Actions status](https://github.com/astral-sh/uv/actions/workflows/ci.yml/badge.svg)](https://github.com/astral-sh/uv/actions)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://www.linkedin.com/in/titouan-conquéré-de-monbrison/)
 
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEciD8gAyCLEQIcmuQUy3FfFN07Uxe_KQCtg&s)
 
-<p style="font-size:25px;">Une application moderne ***extrêment rapide*** pour **gérer efficacement ses tâches**, construite avec **Rust, React et PostgreSQL**.</p>
+Une application moderne ***extrêment rapide*** pour **gérer efficacement ses tâches**, construite avec **Rust, React et PostgreSQL**.
 
 ## Sommaire
 
@@ -108,11 +107,11 @@ npm start
   <summary><strong>Voir plus ...</strong></summary>
   <ol>
     <li><a href="https://google.com">Documentation Node.js</a></li>
-    <li><a href="https://google.com">Express.js</a></li>
-    <li><a href="https://google.com">PostgreSQL</a></li>
-    <li><a href="https://google.com">React.js</a></li>
-    <li><a href="https://google.com">Jest</a></li>
-    <li><a href="https://google.com">Cypress</a></li>
+    <li><a href="https://google.com">Documentation Express.js</a></li>
+    <li><a href="https://google.com">Documentation PostgreSQL</a></li>
+    <li><a href="https://google.com">Documentation React.js</a></li>
+    <li><a href="https://google.com">Documentation Jest</a></li>
+    <li><a href="https://google.com">Documentation Cypress</a></li>
   </ol>
 </details>
 
