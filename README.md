@@ -91,6 +91,13 @@ JWT_SECRET=supersecretkey
 npm start
 ```
 
+### Etape 5 : Hébergement de l'application
+```
+http://localhost:3000
+```
+*lien: [http://localhost:3000](http://localhost:3000)*
+
+
 
 ## Commandes utiles
 >[!TIP] 
