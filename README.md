@@ -4,11 +4,23 @@
 </p>
 
 
-[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://google.com)
-[![image](https://img.shields.io/pypi/v/uv.svg)](https://pypi.python.org/pypi/uv)
-[![Static Badge](https://img.shields.io/badge/todoapp-todapp-brightgreen)](https://youtube.com)
-[![Actions status](https://github.com/astral-sh/uv/actions/workflows/ci.yml/badge.svg)](https://github.com/astral-sh/uv/actions)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://www.linkedin.com/in/titouan-conquéré-de-monbrison/)
+<p align="center">
+  <a href="https://google.com">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json">
+  </a>
+  <a href="https://pypi.python.org/pypi/uv">
+    <img src="https://img.shields.io/pypi/v/uv.svg">
+  </a>
+  <a href="https://youtube.com">
+    <img src="https://img.shields.io/badge/todoapp-todapp-brightgreen">
+  </a>
+  <a href="https://github.com/astral-sh/uv/actions">
+    <img src="https://github.com/astral-sh/uv/actions/workflows/ci.yml/badge.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/titouan-conquéré-de-monbrison/">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white">
+  </a>
+</p>
 
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEciD8gAyCLEQIcmuQUy3FfFN07Uxe_KQCtg&s)
 
