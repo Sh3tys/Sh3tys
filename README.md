@@ -56,13 +56,14 @@ Bonus caché : Capable de transformer du café en code propre et scalable ( ☕-
 
 ---
 
-## 📫 **Comment entrer en contact avec le héros**  
+## 📫 **Comment entrer en contact avec le héro**  
 
-```
-/message discord: sh3tys
-/message linkedIn: [Click](https://www.linkedin.com/in/titouan-conquere-de-monbrison)
-/message mailPerso: [Click](mailto:titouan.cdm@outlook.fr)
-```
+
+Discord : `sh3tys`  
+LinkedIn : [✨ Rejoindre ma guilde pro](https://www.linkedin.com/in/titouan-conquere-de-monbrison)  
+Mail perso : [📜 Envoyer un corbeau numérique](mailto:titouan.cdm@outlook.fr)  
+
+
 
 📝 *Toujours prêt à rejoindre de nouvelles guildes (équipes, projets, opportunités).*  
 
