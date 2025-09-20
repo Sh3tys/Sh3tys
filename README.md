@@ -1,7 +1,9 @@
 # 🕹️ **Bienvenue dans mon monde**  
-> *Chargement du profil…*
-> *Connexion au GitHub réussie*
-> *Redirection dans 3..2..1...*
+> *Chargement du profil… ->*
+
+> * Connexion au GitHub réussie *
+
+> * Redirection dans 3..2..1... *
 
 ---
 
