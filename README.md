@@ -3,7 +3,7 @@
 > *Chargement du profil… 80%*
 > > *Chargement du profil… 90%*
 > > > *Chargement du profil… 100%*
-> 
+ 
 > *Connexion au GitHub réussie*
 > *Redirection dans 3..2..1...*
 
@@ -13,11 +13,11 @@
 
 ```
 ID : #1  
-Nom du joueur : Sh3tys  
+Nom du joueur : Titouan  
 Classe : Développeur Web & Applications  
 Spécialité : Création de vastes mondes numériques immersifs  
 Lieu : Île-de-France – École d’ingénieur (Efrei)  
-Statut actuel : Seconde année de formation (XP +10 000, compétence +5)
+Statut actuel : Seconde année de formation (XP +10 000)
 
 Quête actuelle : Rechercher une guilde pour un Stage de 4 mois ou une Alternance 2026-2027
 
@@ -47,11 +47,11 @@ Bonus caché : Capable de transformer du café en code propre et scalable ( ☕-
 
 ## 🌱 **Zone d’entraînement**  
 
-📍 **École d’ingénieur **  
+📍 **École d’ingénieur à l'Efrei**  
 🎯 **Focus :** Développement Web & Applications  
 💡 **Compétence :** Apprentissage rapide + passion illimitée pour le code  
 🌙 **Boost nocturne :** Le développement après minuit gagne +50 en créativité *(et +100 en caféine ☕)*  
-😂 **Fun fact :** Mon debugger préféré ? `echo "ça marche, je crois ?"` à 2h du matin !
+😂 **Fun fact :** Mon debugger préféré ? `echo "ça marche ?"` à 2h du matin !
 
 
 ---
