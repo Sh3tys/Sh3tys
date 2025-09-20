@@ -2,7 +2,8 @@
 
 > *Chargement du profil… 80%*
 > > *Chargement du profil… 90%*
-> > > *Chargement du profil… 100%*  
+> > > *Chargement du profil… 100%*
+> 
 > *Connexion au GitHub réussie*
 > *Redirection dans 3..2..1...*
 
