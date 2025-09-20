@@ -1,13 +1,6 @@
-# 🕹️ **Bienvenue dans mon monde**  
-> *Chargement du profil…*
-
-> *Connexion au GitHub réussie*
-
-> *Redirection dans 3..2..1...*
-
 ---
-
-## 🎮 **Bienvenue à vous visiteur, qui suis-je ?**
+# 🕹️ **Bienvenue dans mon monde**  
+## 🎮 ***Bienvenue à vous visiteur, qui suis-je ?***
 
 ```
 ID : #1  
