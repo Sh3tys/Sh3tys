@@ -1,75 +1,19 @@
- # 👋 **Bienvenue à vous visiteur, qui suis-je ?**
+# 💫 About Me:
+Full-stack developer.<br>Independent creator.<br>Polyglot programmer.<br>Tech enthusiast.<br>Problem solver.
 
-```
-ID : #1  
-Nom du joueur : Titouan  
-Classe : Développeur Web & Applications  
-Spécialité : Création de vastes mondes numériques immersifs  
-Lieu : Île-de-France – École d’ingénieur (Efrei)  
-Statut actuel : Seconde année de formation (XP +10 000)
 
-Quête actuelle : Rechercher une guilde pour un Stage de 4 mois ou une Alternance 2026-2027
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sh3tys) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/titouan_c_d_m/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/titouan-conquere-de-monbrison) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:titouancdm@gmail.com) 
 
-Bonus caché : Capable de transformer du café en code propre et scalable ( ☕->💻 )
-```
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sh3tys&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sh3tys&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sh3tys&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-🧩 **Mission actuelle :**  
-- Recherche d'une guilde pour un Stage de 4 mois ou une Alternance 2026-2027.
-- Maîtriser les langages et outils du web pour devenir un **Full-Stack Dev légendaire** et débloquer le master.  
-
-⚔️ **Quêtes secondaires :**  
-- Créer des projets fun et utiles pour avancer
-- Collaborer avec d’autres aventuriers du code  
-- Monter en niveau dans les frameworks modernes
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
-## 🛠️ **Inventaire (Compétence technique)**  
-
-- **React** → +150 style & structure  
-- **Node.js** → +200 dynamique  
-- **Symfony / MySQL** → +250 backend  
-- **Git / GitHub** → +30 versioning  
-- **Bonne humeur && Soif d'apprendre** → + ∞  
-
----
-
-## 🌱 **Zone d’entraînement**  
-
-📍 **École d’ingénieur à l'Efrei**  
-🎯 **Focus :** Développement Web & Applications  
-💡 **Compétence :** Apprentissage rapide + passion illimitée pour le code  
-🌙 **Boost nocturne :** Le développement après minuit gagne +50 en créativité *(et +100 en caféine ☕)*  
-😂 **Fun fact :** Mon debugger préféré ? `echo "ça marche ?"` à 2h du matin !
-
-
----
-
-## 📫 **Comment entrer en contact avec le héro**  
-
-
-Discord : `sh3tys`  
-LinkedIn : [✨ Rejoindre ma guilde pro](https://www.linkedin.com/in/titouan-conquere-de-monbrison)  
-Mail perso : [📜 Envoyer un corbeau numérique](mailto:titouan.cdm@outlook.fr)  
-
-
-
-📝 *Toujours prêt à rejoindre de nouvelles guildes (équipes, projets, opportunités).*  
-
----
-
-## 🎨 **Fun Fact**  
-
-> Je vois le développement comme un grand open-world :  
-> on explore, on découvre, on craft ses propres solutions sans jamais s'arreter a une seule vision. 
->  
-> *Mon carburant : café ☕ + musique lo-fi 🎶 (+ Heure tardive)*  
-
----
-
-## 🏆 **Citation du héros**  
-
-> “Chacuns de mes commit est une sauvegarde dans mon aventure de développeur.”  
-
-
-
+[![](https://visitcount.itsvg.in/api?id=sh3tys&icon=0&color=0)](https://visitcount.itsvg.in)
