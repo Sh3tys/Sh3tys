@@ -1,5 +1,9 @@
 # 💫 About Me:
-Full-stack developer.<br>Independent creator.<br>Polyglot programmer.<br>Tech enthusiast.<br>Problem solver.
+- Full-stack developer.
+- Independent creator.
+- Polyglot programmer.
+- Tech enthusiast.
+- Problem solver.
 
 
 ## 🌐 Socials:
