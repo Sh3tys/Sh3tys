@@ -67,10 +67,9 @@
 ---
 
 # GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh3tys&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Stats" height="170px">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sh3tys&theme=dark&hide_border=false" alt="Streak" height="170px">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=sh3tys&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=sh3tys&theme=dark&hide_border=false)<br/>
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
