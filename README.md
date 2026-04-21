@@ -63,21 +63,3 @@
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
 </p>
-
----
-
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh3tys&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Stats" height="170px">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sh3tys&theme=dark&hide_border=false" alt="Streak" height="170px">
-</p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=sh3tys&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=sh3tys&icon=0&color=0" alt="Visit Count">
-  </a>
-</p>
