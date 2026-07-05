@@ -1,16 +1,16 @@
-# 💫 About Me:
-- 🚀 Full-stack developer.
-- 🎨 Independent creator.
-- 🌍 Polyglot programmer.
-- ⚡ Tech enthusiast.
-- 🧩 Problem solver.
+# Salut, je suis Titouan Conquéré de Monbrison
+
+# A propos de moi:
+- Je suis un développeur Full Stack
+- Je maîtrise beaucoup de langages et philosophies de programmation différentes
+- Je suis très motivé et souvent remplis d'idée et de mise à jour
 
 ## 🌐 Socials:
 <p align="left">
 <a href="https://discord.gg/sh3tys" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://www.instagram.com/titouan_c_d_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/titouan-conquere-de-monbrison" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:titouancdm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:titouan.conquere-de-monbrison@efrei.net"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 # 💻 Tech Stack:
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next">
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=tailwind&logoColor=white" alt="Tailwind">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS">
 </p>
